@@ -3,7 +3,7 @@
 Creates new VM and install prerequisites for Azure Stack Hub Development kit (ASDK) to run Proof of Concept.
 
 ## Azure Stack Hub ASF repository
-
+  
 https://github.com/Azure-Samples/Azure-Stack-Hub-Foundation-Core/tree/master/ASF-Training/ASF-slides
 
 ## Version Compatibility
